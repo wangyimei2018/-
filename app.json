@@ -1,0 +1,12 @@
+{
+  "pages": [
+    
+    "play"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "wifi气象站",
+    "navigationBarTextStyle": "black"
+  }
+}
